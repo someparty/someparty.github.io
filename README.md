@@ -1,5 +1,3 @@
-![Some Party](https://www.someparty.ca/images/logo_wide.svg)
-
 # Some Party
 
 A weekly newsletter on independent Canadian rock'n'roll, curated every Sunday evening by Adam White of Punknews.org. A sober second thought on new music, cool records, and the people making their own culture.
