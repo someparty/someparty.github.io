@@ -14,7 +14,13 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-05-22-react-to-it-at-your-leisure/</loc>
-    <lastmod>2017-05-22T10:22:43-04:00</lastmod>
+    <lastmod>2017-05-28T08:18:44-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2017-05-28-pleasure-overdose/</loc>
+    <lastmod>2017-05-28T22:34:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
