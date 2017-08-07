@@ -79,6 +79,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2017-08-06-friend-army/</loc>
+    <lastmod>2017-08-06T23:28:50-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/</loc>
     <lastmod>2017-06-18T09:06:14-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -92,7 +98,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/sponsors/</loc>
-    <lastmod>2017-07-02T08:13:22-04:00</lastmod>
+    <lastmod>2017-08-06T12:57:06-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
