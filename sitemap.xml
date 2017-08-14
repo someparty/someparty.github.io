@@ -85,6 +85,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2017-08-13-benefits/</loc>
+    <lastmod>2017-08-13T21:17:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/</loc>
     <lastmod>2017-06-18T09:06:14-04:00</lastmod>
     <changefreq>monthly</changefreq>
