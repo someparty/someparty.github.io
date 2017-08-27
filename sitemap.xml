@@ -86,13 +86,19 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-08-13-benefits/</loc>
-    <lastmod>2017-08-13T21:17:05-04:00</lastmod>
+    <lastmod>2017-08-27T09:14:35-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-08-20-plimsoll-punks/</loc>
-    <lastmod>2017-08-21T00:15:30-04:00</lastmod>
+    <lastmod>2017-08-24T09:35:33-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2017-08-27-culture-war-donner-party/</loc>
+    <lastmod>2017-08-27T16:12:46-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
