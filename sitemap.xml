@@ -103,6 +103,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2017-09-03-check-my-profile/</loc>
+    <lastmod>2017-09-05T22:20:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/</loc>
     <lastmod>2017-06-18T09:06:14-04:00</lastmod>
     <changefreq>monthly</changefreq>
