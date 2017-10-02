@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.someparty.ca/about/</loc>
-    <lastmod>2017-06-18T09:01:58-04:00</lastmod>
+    <loc>https://www.someparty.ca/</loc>
+    <lastmod>2017-06-18T09:06:14-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -13,20 +13,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2017-05-22-react-to-it-at-your-leisure/</loc>
-    <lastmod>2017-06-18T13:45:28-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.someparty.ca/2017-05-28-pleasure-overdose/</loc>
-    <lastmod>2017-05-28T23:25:21-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.someparty.ca/2017-06-04-best-buzz/</loc>
-    <lastmod>2017-06-05T07:52:20-04:00</lastmod>
+    <loc>https://www.someparty.ca/sponsors/</loc>
+    <lastmod>2017-10-01T22:30:37-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -37,14 +25,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2017-06-18-dream-of-booji/</loc>
-    <lastmod>2017-06-18T21:31:56-04:00</lastmod>
+    <loc>https://www.someparty.ca/2017-08-20-plimsoll-punks/</loc>
+    <lastmod>2017-08-24T09:35:33-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2017-06-25-glory-days/</loc>
-    <lastmod>2017-06-25T23:34:21-04:00</lastmod>
+    <loc>https://www.someparty.ca/2017-05-22-react-to-it-at-your-leisure/</loc>
+    <lastmod>2017-06-18T13:45:28-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2017-09-24-la-capacidad/</loc>
+    <lastmod>2017-09-24T23:21:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2017-08-06-friend-army/</loc>
+    <lastmod>2017-08-30T10:31:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -61,14 +61,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2017-07-16-cellophane/</loc>
-    <lastmod>2017-08-30T10:31:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.someparty.ca/2017-07-23-victory-lap/</loc>
-    <lastmod>2017-07-23T23:50:17-04:00</lastmod>
+    <loc>https://www.someparty.ca/2017-06-18-dream-of-booji/</loc>
+    <lastmod>2017-06-18T21:31:56-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -79,8 +73,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2017-08-06-friend-army/</loc>
-    <lastmod>2017-08-30T10:31:55-04:00</lastmod>
+    <loc>https://www.someparty.ca/2017-06-25-glory-days/</loc>
+    <lastmod>2017-06-25T23:34:21-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2017-07-16-cellophane/</loc>
+    <lastmod>2017-08-30T10:31:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2017-10-01-silatujuujutit/</loc>
+    <lastmod>2017-10-01T23:24:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -91,14 +97,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2017-08-20-plimsoll-punks/</loc>
-    <lastmod>2017-08-24T09:35:33-04:00</lastmod>
+    <loc>https://www.someparty.ca/2017-08-27-culture-war-donner-party/</loc>
+    <lastmod>2017-09-02T12:55:23-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2017-08-27-culture-war-donner-party/</loc>
-    <lastmod>2017-09-02T12:55:23-04:00</lastmod>
+    <loc>https://www.someparty.ca/2017-07-23-victory-lap/</loc>
+    <lastmod>2017-07-23T23:50:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -109,26 +115,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2017-09-10-me-in-glue/</loc>
-    <lastmod>2017-09-11T13:42:13-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.someparty.ca/2017-09-17-standing-in-your-shadow/</loc>
     <lastmod>2017-09-17T23:28:02-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2017-09-24-la-capacidad/</loc>
-    <lastmod>2017-09-24T23:21:00-04:00</lastmod>
+    <loc>https://www.someparty.ca/2017-09-10-me-in-glue/</loc>
+    <lastmod>2017-09-11T13:42:13-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/</loc>
-    <lastmod>2017-06-18T09:06:14-04:00</lastmod>
+    <loc>https://www.someparty.ca/2017-05-28-pleasure-overdose/</loc>
+    <lastmod>2017-05-28T23:25:21-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2017-06-04-best-buzz/</loc>
+    <lastmod>2017-06-05T07:52:20-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -139,14 +145,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/sponsors/</loc>
-    <lastmod>2017-08-06T12:57:06-04:00</lastmod>
+    <loc>https://www.someparty.ca/unsubscribe/</loc>
+    <lastmod>2017-05-22T12:33:28-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/unsubscribe/</loc>
-    <lastmod>2017-05-22T12:33:28-04:00</lastmod>
+    <loc>https://www.someparty.ca/about/</loc>
+    <lastmod>2017-06-18T09:01:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
