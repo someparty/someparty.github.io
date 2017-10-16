@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-10-08-then-youre-gone/</loc>
-    <lastmod>2017-10-09T13:47:41-04:00</lastmod>
+    <lastmod>2017-10-15T22:20:10-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -123,6 +123,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-09-17-standing-in-your-shadow/</loc>
     <lastmod>2017-09-17T23:28:02-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2017-10-15-now-or-neverish/</loc>
+    <lastmod>2017-10-15T22:54:36-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
