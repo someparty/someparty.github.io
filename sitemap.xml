@@ -97,6 +97,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2017-10-22-family-band/</loc>
+    <lastmod>2017-10-22T23:19:16-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2017-08-13-benefits/</loc>
     <lastmod>2017-08-27T09:14:35-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -116,7 +122,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-09-03-check-my-profile/</loc>
-    <lastmod>2017-09-07T08:50:09-04:00</lastmod>
+    <lastmod>2017-10-22T22:37:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
