@@ -43,6 +43,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2017-11-05-beat-wave/</loc>
+    <lastmod>2017-11-05T22:08:44-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2017-08-06-friend-army/</loc>
     <lastmod>2017-08-30T10:31:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -164,7 +170,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/privacy/</loc>
-    <lastmod>2017-06-04T23:22:51-04:00</lastmod>
+    <lastmod>2017-11-05T21:42:56-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
