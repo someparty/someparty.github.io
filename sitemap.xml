@@ -145,6 +145,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2017-11-19-retour-au-noir/</loc>
+    <lastmod>2017-11-19T23:50:50-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2017-11-12-human-shrapnel-machine/</loc>
     <lastmod>2017-11-13T13:03:17-05:00</lastmod>
     <changefreq>monthly</changefreq>
