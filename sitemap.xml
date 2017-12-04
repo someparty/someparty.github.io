@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-08-20-plimsoll-punks/</loc>
-    <lastmod>2017-08-24T09:35:33-04:00</lastmod>
+    <lastmod>2017-12-03T21:22:22-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -50,13 +50,13 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-08-06-friend-army/</loc>
-    <lastmod>2017-08-30T10:31:55-04:00</lastmod>
+    <lastmod>2017-12-03T22:38:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-07-02-talk-to-your-friends/</loc>
-    <lastmod>2017-07-03T12:59:59-04:00</lastmod>
+    <lastmod>2017-12-03T22:38:41-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-10-08-then-youre-gone/</loc>
-    <lastmod>2017-10-15T22:20:10-04:00</lastmod>
+    <lastmod>2017-12-03T22:38:48-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-06-25-glory-days/</loc>
-    <lastmod>2017-06-25T23:34:21-04:00</lastmod>
+    <lastmod>2017-12-03T22:38:15-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -140,13 +140,13 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-09-03-check-my-profile/</loc>
-    <lastmod>2017-10-30T00:16:18-04:00</lastmod>
+    <lastmod>2017-12-03T22:38:45-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-09-17-standing-in-your-shadow/</loc>
-    <lastmod>2017-09-17T23:28:02-04:00</lastmod>
+    <lastmod>2017-12-03T22:38:19-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -177,6 +177,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-05-28-pleasure-overdose/</loc>
     <lastmod>2017-05-28T23:25:21-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2017-12-03-the-new-calling/</loc>
+    <lastmod>2017-12-04T00:06:34-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
