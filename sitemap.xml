@@ -211,6 +211,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2018-01-14-talking-pictures/</loc>
+    <lastmod>2018-01-15T07:49:54-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/privacy/</loc>
     <lastmod>2017-12-04T21:30:45-05:00</lastmod>
     <changefreq>monthly</changefreq>
