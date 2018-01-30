@@ -73,6 +73,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2018-01-28-six-day-weekend/</loc>
+    <lastmod>2018-01-29T21:13:31-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2017-12-17-transparent-brain/</loc>
     <lastmod>2017-12-18T22:36:35-05:00</lastmod>
     <changefreq>monthly</changefreq>
