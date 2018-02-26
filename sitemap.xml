@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-02-11-have-not-been-the-same/</loc>
-    <lastmod>2018-02-11T22:48:21-05:00</lastmod>
+    <lastmod>2018-02-24T10:15:03-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -141,6 +141,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-06-25-glory-days/</loc>
     <lastmod>2018-02-04T22:10:49-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2018-02-25-at-it-again/</loc>
+    <lastmod>2018-02-25T23:35:27-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
