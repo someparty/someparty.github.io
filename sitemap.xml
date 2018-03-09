@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/premieres/rust-owl-awkward-age/</loc>
+    <lastmod>2018-03-09T13:39:49-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/acknowledgements/</loc>
     <lastmod>2017-05-22T10:25:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -170,7 +176,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-03-04-i-have-yet-to-see/</loc>
-    <lastmod>2018-03-05T00:37:35-05:00</lastmod>
+    <lastmod>2018-03-05T00:38:24-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
