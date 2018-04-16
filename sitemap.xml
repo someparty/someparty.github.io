@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-05-22-react-to-it-at-your-leisure/</loc>
-    <lastmod>2017-06-18T13:45:28-04:00</lastmod>
+    <lastmod>2018-04-15T20:54:45-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -99,6 +99,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-07-02-talk-to-your-friends/</loc>
     <lastmod>2018-02-04T22:10:49-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2018-04-15-im-so-tired/</loc>
+    <lastmod>2018-04-15T22:56:13-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -296,7 +302,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-12-03-the-new-calling/</loc>
-    <lastmod>2018-02-04T22:10:49-05:00</lastmod>
+    <lastmod>2018-04-15T21:59:06-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
