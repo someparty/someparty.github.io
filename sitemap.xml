@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-07-30-come-what-may/</loc>
-    <lastmod>2018-02-04T22:10:49-05:00</lastmod>
+    <lastmod>2018-04-29T21:41:33-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -303,6 +303,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-12-03-the-new-calling/</loc>
     <lastmod>2018-04-15T21:59:06-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2018-04-29-teeth-showing/</loc>
+    <lastmod>2018-04-29T23:46:52-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
