@@ -152,7 +152,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-05-27-street-cents/</loc>
-    <lastmod>2018-05-27T23:32:38-04:00</lastmod>
+    <lastmod>2018-05-27T23:44:07-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -219,6 +219,12 @@
   <url>
     <loc>https://www.someparty.ca/2018-03-11-crying-shame/</loc>
     <lastmod>2018-03-12T00:08:54-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2018-06-03-bitter-boys/</loc>
+    <lastmod>2018-06-03T23:16:42-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
