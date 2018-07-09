@@ -170,7 +170,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-06-17-pulverizer/</loc>
-    <lastmod>2018-06-24T23:00:16-04:00</lastmod>
+    <lastmod>2018-07-08T21:42:20-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -248,7 +248,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-06-03-bitter-boys/</loc>
-    <lastmod>2018-06-03T23:22:35-04:00</lastmod>
+    <lastmod>2018-07-08T21:36:18-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -357,6 +357,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-12-03-the-new-calling/</loc>
     <lastmod>2018-04-15T21:59:06-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2018-07-08-lights-too-loud/</loc>
+    <lastmod>2018-07-08T23:19:38-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
