@@ -235,6 +235,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2018-07-22-dingus/</loc>
+    <lastmod>2018-07-22T22:29:13-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2018-05-20-space-junk/</loc>
     <lastmod>2018-05-27T22:39:26-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -338,7 +344,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-07-15-grease/</loc>
-    <lastmod>2018-07-16T22:09:03-04:00</lastmod>
+    <lastmod>2018-07-17T08:27:57-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
