@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-04-15-im-so-tired/</loc>
-    <lastmod>2018-04-15T23:01:51-04:00</lastmod>
+    <lastmod>2018-07-29T23:25:31-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-07-22-dingus/</loc>
-    <lastmod>2018-07-22T22:42:42-04:00</lastmod>
+    <lastmod>2018-07-29T16:08:27-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -249,6 +249,12 @@
   <url>
     <loc>https://www.someparty.ca/2018-03-11-crying-shame/</loc>
     <lastmod>2018-03-12T00:08:54-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2018-07-29-raise-your-voice-joyce/</loc>
+    <lastmod>2018-07-29T23:31:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
