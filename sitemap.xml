@@ -175,6 +175,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2018-08-26-get-the-rods-out/</loc>
+    <lastmod>2018-08-26T23:33:42-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2018-05-27-street-cents/</loc>
     <lastmod>2018-05-27T23:44:07-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -260,7 +266,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-03-11-crying-shame/</loc>
-    <lastmod>2018-03-12T00:08:54-04:00</lastmod>
+    <lastmod>2018-08-26T21:37:37-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
