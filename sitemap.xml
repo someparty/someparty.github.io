@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-09-02-everybodys-punk-now/</loc>
-    <lastmod>2018-09-04T23:30:26-04:00</lastmod>
+    <lastmod>2018-09-09T22:56:39-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -405,6 +405,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-12-03-the-new-calling/</loc>
     <lastmod>2018-04-15T21:59:06-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2018-09-09-were-dying-dudes/</loc>
+    <lastmod>2018-09-09T23:49:27-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
