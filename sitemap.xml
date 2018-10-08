@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-09-30-empty-husk/</loc>
-    <lastmod>2018-10-01T00:11:06-04:00</lastmod>
+    <lastmod>2018-10-03T22:01:40-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -357,6 +357,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-07-23-victory-lap/</loc>
     <lastmod>2017-07-23T23:50:17-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2018-10-07-ghosts-and-flowers/</loc>
+    <lastmod>2018-10-08T17:03:23-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
