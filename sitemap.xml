@@ -356,7 +356,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-11-11-will-to-power/</loc>
-    <lastmod>2018-11-12T23:05:28-05:00</lastmod>
+    <lastmod>2018-12-17T21:09:27-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -477,6 +477,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-05-28-pleasure-overdose/</loc>
     <lastmod>2018-02-04T22:10:49-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2018-12-16-kicked-out/</loc>
+    <lastmod>2018-12-17T23:39:11-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
