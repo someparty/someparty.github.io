@@ -169,6 +169,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2019-01-06-the-wait/</loc>
+    <lastmod>2019-01-07T00:11:09-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2018-02-11-have-not-been-the-same/</loc>
     <lastmod>2018-02-24T10:15:03-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -296,7 +302,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-12-02-secret-republic/</loc>
-    <lastmod>2018-12-31T08:42:19-05:00</lastmod>
+    <lastmod>2019-01-06T22:41:57-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
