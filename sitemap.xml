@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-01-13-bangers/</loc>
-    <lastmod>2019-01-13T23:41:08-05:00</lastmod>
+    <lastmod>2019-01-21T22:36:50-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -399,6 +399,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-08-13-benefits/</loc>
     <lastmod>2018-09-16T23:16:24-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-01-20-snowblind/</loc>
+    <lastmod>2019-01-21T23:17:19-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
