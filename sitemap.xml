@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/premieres/mildew-mildew-ketchup-chips/</loc>
+    <lastmod>2019-02-11T00:08:28-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/premieres/colour-by-numbers-thaddeus/</loc>
     <lastmod>2018-04-01T11:03:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -19,8 +25,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/premieres/ba-johnston-jesus-take-the-wheel/</loc>
+    <lastmod>2019-02-11T00:19:59-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/premieres/rust-owl-awkward-age/</loc>
-    <lastmod>2018-03-09T13:39:49-05:00</lastmod>
+    <lastmod>2019-02-10T22:39:06-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -135,6 +147,12 @@
   <url>
     <loc>https://www.someparty.ca/2018-04-15-im-so-tired/</loc>
     <lastmod>2018-07-29T23:25:31-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-02-10-ketchup-chips/</loc>
+    <lastmod>2019-02-11T00:34:52-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -326,7 +344,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-03-11-crying-shame/</loc>
-    <lastmod>2018-09-16T23:17:09-04:00</lastmod>
+    <lastmod>2019-02-10T22:39:06-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -368,7 +386,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-02-03-kids/</loc>
-    <lastmod>2019-02-03T22:11:20-05:00</lastmod>
+    <lastmod>2019-02-03T22:19:37-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -398,7 +416,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-03-04-i-have-yet-to-see/</loc>
-    <lastmod>2018-11-19T00:29:03-05:00</lastmod>
+    <lastmod>2019-02-10T22:40:26-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
