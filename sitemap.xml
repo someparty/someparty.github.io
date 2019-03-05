@@ -374,7 +374,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-06-03-bitter-boys/</loc>
-    <lastmod>2018-07-08T21:36:18-04:00</lastmod>
+    <lastmod>2019-03-04T18:58:04-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -398,7 +398,13 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-02-03-kids/</loc>
-    <lastmod>2019-02-03T22:19:37-05:00</lastmod>
+    <lastmod>2019-03-04T18:38:05-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-03-03-dark-days/</loc>
+    <lastmod>2019-03-04T21:31:33-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -590,7 +596,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-02-24-trou-noir/</loc>
-    <lastmod>2019-02-25T23:08:50-05:00</lastmod>
+    <lastmod>2019-02-26T10:56:09-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
