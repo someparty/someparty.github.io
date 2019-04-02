@@ -373,6 +373,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2019-03-31-freeloader-feast/</loc>
+    <lastmod>2019-04-01T22:55:43-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2018-03-11-crying-shame/</loc>
     <lastmod>2019-02-10T22:39:06-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -572,7 +578,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-03-10-these-things-happen/</loc>
-    <lastmod>2019-03-12T11:57:58-04:00</lastmod>
+    <lastmod>2019-04-01T19:17:41-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -620,7 +626,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-02-24-trou-noir/</loc>
-    <lastmod>2019-02-26T10:56:09-05:00</lastmod>
+    <lastmod>2019-04-01T18:39:04-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
