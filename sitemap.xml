@@ -229,6 +229,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2019-05-05-the-next-fix/</loc>
+    <lastmod>2019-05-06T23:00:41-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2018-02-11-have-not-been-the-same/</loc>
     <lastmod>2018-02-24T10:15:03-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -554,7 +560,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-07-15-grease/</loc>
-    <lastmod>2018-09-19T08:49:54-04:00</lastmod>
+    <lastmod>2019-05-06T21:55:21-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
