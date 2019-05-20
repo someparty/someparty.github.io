@@ -25,6 +25,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/premieres/the-sweeties-antioch/</loc>
+    <lastmod>2019-05-20T12:53:21-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/premieres/wrecker-passenger-party/</loc>
     <lastmod>2019-02-12T14:07:56-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -116,7 +122,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-05-12-loves-going-to-get-you-again/</loc>
-    <lastmod>2019-05-14T06:58:12-04:00</lastmod>
+    <lastmod>2019-05-20T12:53:21-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -236,7 +242,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-05-05-the-next-fix/</loc>
-    <lastmod>2019-05-06T23:13:35-04:00</lastmod>
+    <lastmod>2019-05-20T12:53:21-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -566,7 +572,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-07-15-grease/</loc>
-    <lastmod>2019-05-06T21:55:21-04:00</lastmod>
+    <lastmod>2019-05-20T12:53:21-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
