@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/premieres/the-sweeties-antioch/</loc>
-    <lastmod>2019-05-20T12:53:21-04:00</lastmod>
+    <lastmod>2019-05-20T23:47:57-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -567,6 +567,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-11-12-human-shrapnel-machine/</loc>
     <lastmod>2018-02-04T22:10:49-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-05-19-hey-jackie/</loc>
+    <lastmod>2019-05-20T23:58:22-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
