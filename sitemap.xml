@@ -392,7 +392,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-06-30-tube-reducer/</loc>
-    <lastmod>2019-07-03T12:43:45-04:00</lastmod>
+    <lastmod>2019-07-03T12:48:44-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -447,6 +447,12 @@
   <url>
     <loc>https://www.someparty.ca/2018-03-11-crying-shame/</loc>
     <lastmod>2019-02-10T22:39:06-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-07-07-moody-stables/</loc>
+    <lastmod>2019-07-08T16:21:31-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
