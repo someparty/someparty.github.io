@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.someparty.ca/</loc>
-    <lastmod>2018-11-16T11:43:28-05:00</lastmod>
+    <lastmod>2019-07-12T13:54:28-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -248,7 +248,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-06-02-veneer/</loc>
-    <lastmod>2019-07-01T07:14:15-04:00</lastmod>
+    <lastmod>2019-07-15T22:17:03-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -513,6 +513,12 @@
   <url>
     <loc>https://www.someparty.ca/2018-04-01-cool-water/</loc>
     <lastmod>2018-04-01T23:58:10-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-07-14-hawaiicbm/</loc>
+    <lastmod>2019-07-16T09:31:38-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
