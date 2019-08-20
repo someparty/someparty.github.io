@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-01-28-six-day-weekend/</loc>
-    <lastmod>2018-12-09T21:08:13-05:00</lastmod>
+    <lastmod>2019-08-20T08:40:18-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -381,6 +381,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-07-30-come-what-may/</loc>
     <lastmod>2018-04-29T21:41:33-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-08-18-kepler-69/</loc>
+    <lastmod>2019-08-20T11:30:33-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -554,7 +560,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-08-04-falling-down-the-stairs-of-your-smile/</loc>
-    <lastmod>2019-08-11T21:13:47-04:00</lastmod>
+    <lastmod>2019-08-20T09:41:38-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
