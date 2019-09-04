@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/premieres/rust-owl-awkward-age/</loc>
-    <lastmod>2019-02-10T22:39:06-05:00</lastmod>
+    <lastmod>2019-09-03T20:50:49-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -272,7 +272,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-12-17-transparent-brain/</loc>
-    <lastmod>2018-02-04T22:10:49-05:00</lastmod>
+    <lastmod>2019-09-03T20:48:30-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -416,7 +416,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-09-02-everybodys-punk-now/</loc>
-    <lastmod>2018-09-21T08:57:13-04:00</lastmod>
+    <lastmod>2019-09-03T20:49:42-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -453,6 +453,12 @@
   <url>
     <loc>https://www.someparty.ca/2019-03-24-felt/</loc>
     <lastmod>2019-03-24T23:36:06-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-09-01-dream-on-pigs/</loc>
+    <lastmod>2019-09-04T07:09:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -542,7 +548,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-04-01-cool-water/</loc>
-    <lastmod>2018-04-01T23:58:10-04:00</lastmod>
+    <lastmod>2019-09-03T20:49:42-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -632,7 +638,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2017-12-10-making-a-living/</loc>
-    <lastmod>2018-02-04T22:10:49-05:00</lastmod>
+    <lastmod>2019-09-03T20:50:12-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
