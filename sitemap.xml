@@ -194,7 +194,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-09-08-deep-prismatic-wave/</loc>
-    <lastmod>2019-09-10T07:52:41-04:00</lastmod>
+    <lastmod>2019-09-15T21:50:41-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -591,6 +591,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-08-13-benefits/</loc>
     <lastmod>2018-09-16T23:16:24-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-09-15-amaruq/</loc>
+    <lastmod>2019-09-16T10:01:26-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
