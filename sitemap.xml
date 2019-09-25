@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/premieres/luge-up-and-up/</loc>
+    <lastmod>2019-09-25T09:28:29-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/premieres/ba-johnston-jesus-take-the-wheel/</loc>
     <lastmod>2019-02-11T00:44:01-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -740,7 +746,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-03-10-these-things-happen/</loc>
-    <lastmod>2019-04-28T22:15:42-04:00</lastmod>
+    <lastmod>2019-09-24T12:50:38-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
