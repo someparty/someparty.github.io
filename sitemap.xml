@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/premieres/telegenic-pleasure/</loc>
+    <lastmod>2019-10-20T12:34:53-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/premieres/luge-up-and-up/</loc>
     <lastmod>2019-09-25T09:28:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -56,7 +62,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/premieres/ba-johnston-jesus-take-the-wheel/</loc>
-    <lastmod>2019-02-11T00:44:01-05:00</lastmod>
+    <lastmod>2019-10-20T11:35:06-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
