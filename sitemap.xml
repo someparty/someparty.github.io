@@ -392,13 +392,13 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-06-16-cool-all-the-time/</loc>
-    <lastmod>2019-06-19T07:40:17-04:00</lastmod>
+    <lastmod>2019-10-28T18:57:12-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-09-29-evolve/</loc>
-    <lastmod>2019-10-01T11:50:02-04:00</lastmod>
+    <lastmod>2019-10-28T18:43:43-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -741,6 +741,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-10-15-now-or-neverish/</loc>
     <lastmod>2018-02-04T22:10:49-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-10-27-crimson-tide/</loc>
+    <lastmod>2019-10-28T22:02:45-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
