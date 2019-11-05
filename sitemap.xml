@@ -247,6 +247,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2019-11-03-anyones-guess/</loc>
+    <lastmod>2019-11-05T13:03:37-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2018-05-06-run-to-the-hills/</loc>
     <lastmod>2018-12-09T22:27:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -368,7 +374,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-10-13-lying-signal/</loc>
-    <lastmod>2019-10-18T00:46:36-04:00</lastmod>
+    <lastmod>2019-11-03T21:23:56-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
