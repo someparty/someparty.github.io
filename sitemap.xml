@@ -248,7 +248,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-11-03-anyones-guess/</loc>
-    <lastmod>2019-11-05T13:03:37-05:00</lastmod>
+    <lastmod>2019-11-05T17:35:15-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -459,6 +459,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-06-25-glory-days/</loc>
     <lastmod>2018-09-19T08:52:38-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-11-10-neverdie/</loc>
+    <lastmod>2019-11-12T21:16:11-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
