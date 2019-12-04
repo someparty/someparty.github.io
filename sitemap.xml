@@ -265,6 +265,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2019-12-01-zone-of-avoidance/</loc>
+    <lastmod>2019-12-03T22:13:05-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2018-06-24-pep-talk/</loc>
     <lastmod>2018-12-09T22:27:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -723,12 +729,6 @@
   <url>
     <loc>https://www.someparty.ca/2017-12-10-making-a-living/</loc>
     <lastmod>2019-09-03T20:50:12-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.someparty.ca/2019-12-01-attn-spam/</loc>
-    <lastmod>2019-12-03T22:06:37-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
