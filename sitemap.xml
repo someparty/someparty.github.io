@@ -710,7 +710,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-11-24-internet-human/</loc>
-    <lastmod>2019-11-28T15:52:51-05:00</lastmod>
+    <lastmod>2019-11-28T15:53:54-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -723,6 +723,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-12-10-making-a-living/</loc>
     <lastmod>2019-09-03T20:50:12-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-12-01-attn-spam/</loc>
+    <lastmod>2019-12-03T22:06:37-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -860,7 +866,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-02-24-trou-noir/</loc>
-    <lastmod>2019-04-01T18:39:04-04:00</lastmod>
+    <lastmod>2019-12-02T21:58:16-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
