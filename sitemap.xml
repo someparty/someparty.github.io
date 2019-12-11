@@ -266,7 +266,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-12-01-zone-of-avoidance/</loc>
-    <lastmod>2019-12-03T22:13:05-05:00</lastmod>
+    <lastmod>2019-12-04T22:28:03-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -302,7 +302,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-01-06-the-wait/</loc>
-    <lastmod>2019-01-07T00:11:09-05:00</lastmod>
+    <lastmod>2019-12-08T13:07:45-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -483,6 +483,12 @@
   <url>
     <loc>https://www.someparty.ca/2019-11-10-neverdie/</loc>
     <lastmod>2019-11-26T08:55:55-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2019-12-08-the-cage/</loc>
+    <lastmod>2019-12-11T11:51:07-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
