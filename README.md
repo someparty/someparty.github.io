@@ -1,8 +1,8 @@
 # Some Party
 
-A weekly newsletter sharing the latest in independent Canadian rock'n'roll, curated every Sunday evening by Adam White.
+Some Party is a weekly newsletter sharing the latest in independent Canadian rock'n'roll, curated weekly by Adam White. 
 
-Some Party features punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and every weird diversion along the way.
+Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way.
 
 # Source Code
 
