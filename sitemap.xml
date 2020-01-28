@@ -194,7 +194,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-01-12-electric/</loc>
-    <lastmod>2020-01-15T09:49:46-05:00</lastmod>
+    <lastmod>2020-01-27T20:41:13-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -207,6 +207,12 @@
   <url>
     <loc>https://www.someparty.ca/2020-01-05-two-words-one-finger/</loc>
     <lastmod>2020-01-08T10:53:55-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2020-01-26-killer-on-the-loose/</loc>
+    <lastmod>2020-01-28T17:21:17-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -266,7 +272,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-11-03-anyones-guess/</loc>
-    <lastmod>2019-11-05T17:35:15-05:00</lastmod>
+    <lastmod>2020-01-27T19:30:02-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -373,12 +379,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2020-01-19-mark-zuckerberg/</loc>
-    <lastmod>2020-01-22T06:59:39-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.someparty.ca/2018-05-27-street-cents/</loc>
     <lastmod>2018-05-27T23:44:07-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -476,7 +476,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-11-17-overworked/</loc>
-    <lastmod>2019-11-19T10:39:37-05:00</lastmod>
+    <lastmod>2020-01-27T19:30:07-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
