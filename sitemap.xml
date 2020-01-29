@@ -379,6 +379,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2020-01-19-mark-zuckerberg/</loc>
+    <lastmod>2020-01-29T10:43:36-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2018-05-27-street-cents/</loc>
     <lastmod>2018-05-27T23:44:07-04:00</lastmod>
     <changefreq>monthly</changefreq>
