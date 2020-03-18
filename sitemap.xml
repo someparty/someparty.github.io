@@ -133,6 +133,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2020-03-15-x/</loc>
+    <lastmod>2020-03-17T23:24:23-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2019-06-23-every-flower-i-see/</loc>
     <lastmod>2020-02-09T21:57:45-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -338,7 +344,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-02-23-the-long-ride/</loc>
-    <lastmod>2020-02-23T21:24:38-05:00</lastmod>
+    <lastmod>2020-03-15T22:19:37-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -398,7 +404,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-01-19-mark-zuckerberg/</loc>
-    <lastmod>2020-01-24T09:17:00-05:00</lastmod>
+    <lastmod>2020-01-29T10:43:36-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -500,7 +506,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-02-09-lets-get-serious-about-punk-rock/</loc>
-    <lastmod>2020-02-19T19:18:31-05:00</lastmod>
+    <lastmod>2020-02-17T20:47:22-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -650,7 +656,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-03-08-took-too-much/</loc>
-    <lastmod>2020-03-09T22:13:38-04:00</lastmod>
+    <lastmod>2020-03-15T09:03:11-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
