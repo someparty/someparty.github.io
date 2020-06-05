@@ -97,6 +97,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/some-kicks/</loc>
+    <lastmod>2020-06-05T10:00:33-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/sponsors/</loc>
     <lastmod>2018-09-19T09:02:52-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -104,7 +110,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-02-04-devices/</loc>
-    <lastmod>2018-09-16T22:09:41-04:00</lastmod>
+    <lastmod>2020-04-06T21:05:37-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -410,7 +416,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-01-19-mark-zuckerberg/</loc>
-    <lastmod>2020-01-24T09:17:00-05:00</lastmod>
+    <lastmod>2020-01-29T10:43:36-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -452,7 +458,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-05-31-dripping-visions/</loc>
-    <lastmod>2020-06-02T21:33:43-04:00</lastmod>
+    <lastmod>2020-06-02T21:42:44-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -698,7 +704,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-03-08-took-too-much/</loc>
-    <lastmod>2020-03-24T23:08:15-04:00</lastmod>
+    <lastmod>2020-03-24T23:08:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -764,7 +770,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-05-03-ploce/</loc>
-    <lastmod>2020-05-06T08:59:10-04:00</lastmod>
+    <lastmod>2020-05-06T09:00:26-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -884,7 +890,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-07-15-grease/</loc>
-    <lastmod>2019-05-20T12:53:21-04:00</lastmod>
+    <lastmod>2020-05-27T10:36:14-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1022,13 +1028,13 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/about/</loc>
-    <lastmod>2020-04-19T13:40:55-04:00</lastmod>
+    <lastmod>2020-06-05T10:05:02-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.someparty.ca/store/under-the-circumstances/</loc>
-    <lastmod>2020-04-27T08:33:35-04:00</lastmod>
+    <lastmod>2020-04-27T08:34:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
