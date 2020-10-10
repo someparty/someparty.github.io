@@ -361,6 +361,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2020-10-04-heart-of-gold/</loc>
+    <lastmod>2020-10-09T22:02:43-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2018-01-28-six-day-weekend/</loc>
     <lastmod>2020-08-18T22:17:44-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -638,7 +644,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-02-25-at-it-again/</loc>
-    <lastmod>2018-02-25T23:51:41-05:00</lastmod>
+    <lastmod>2020-10-06T21:12:37-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -896,7 +902,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-03-25-a-daily-affirmation/</loc>
-    <lastmod>2019-09-05T11:33:23-04:00</lastmod>
+    <lastmod>2020-10-07T21:16:52-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
