@@ -854,7 +854,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-09-13-colourful/</loc>
-    <lastmod>2020-09-17T00:11:29-04:00</lastmod>
+    <lastmod>2020-11-03T23:03:37-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1041,6 +1041,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-09-10-me-in-glue/</loc>
     <lastmod>2020-09-01T20:28:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2020-11-01-ego-death/</loc>
+    <lastmod>2020-11-04T12:57:29-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
