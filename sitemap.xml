@@ -260,7 +260,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-11-29-this-monologue/</loc>
-    <lastmod>2020-12-14T21:51:25-05:00</lastmod>
+    <lastmod>2020-12-23T00:27:57-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -351,6 +351,12 @@
   <url>
     <loc>https://www.someparty.ca/2018-06-24-pep-talk/</loc>
     <lastmod>2020-06-09T19:23:30-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2020-12-20-why-did-it-matter/</loc>
+    <lastmod>2020-12-23T00:28:45-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -632,7 +638,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-11-15-back-with-the-gang/</loc>
-    <lastmod>2020-11-15T12:48:16-05:00</lastmod>
+    <lastmod>2020-12-22T23:50:22-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
