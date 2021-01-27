@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-01-07-you-know-who/</loc>
-    <lastmod>2020-08-18T22:17:44-04:00</lastmod>
+    <lastmod>2021-01-24T13:53:19-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -440,7 +440,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-02-18-my-accoutrements/</loc>
-    <lastmod>2020-10-27T09:13:57-04:00</lastmod>
+    <lastmod>2021-01-24T13:53:19-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -896,7 +896,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-05-13-lo-fi-garage-symphonette/</loc>
-    <lastmod>2020-12-14T08:09:09-05:00</lastmod>
+    <lastmod>2021-01-24T13:53:25-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1089,6 +1089,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-05-28-pleasure-overdose/</loc>
     <lastmod>2020-06-09T19:23:30-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2021-01-24-half-rich-loner/</loc>
+    <lastmod>2021-01-26T23:12:36-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
