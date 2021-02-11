@@ -2,6 +2,33 @@
 <svg width="100%" height="100%" viewBox="0 0 900 900" xml:space="preserve"
   xmlns="http://www.w3.org/2000/svg">
 
+  <script type="application/x-javascript"><![CDATA[
+    StringArt = new function()
+    {
+      var x = 60;
+      var xinc = -10;
+
+      window.addEventListener("load", function(e) {animate(); }, false);
+
+      function animate()
+      {
+        if(x >= 60)  xinc = -10;
+        if(x <= -60) xinc = 10;
+
+        x += xinc;
+
+        var path = "M0,"+Number(40-x/2)+"q"+x+",50,0,"+Number(100+x/4)+"t0,"+Number(110-x/2);
+
+        document.getElementById("s1").setAttribute("d",path);
+        document.getElementById("s2").setAttribute("d",path);
+        document.getElementById("s3").setAttribute("d",path);
+
+        window.setTimeout(animate,150);
+      }
+    }();
+  ]]>
+  </script>
+
   <g transform="translate(250,20)" style="fill:none;stroke:white;stroke-width:30px;stroke-linecap:round;">
     <path id="s1" d="M0,0q60,50,0,125t0,125" />
     <path id="s2" d="M0,0q60,50,0,125t0,125" transform="translate(180,0)" />
