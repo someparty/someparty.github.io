@@ -169,6 +169,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2021-02-21-burning-bridges/</loc>
+    <lastmod>2021-02-23T21:41:42-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2019-05-12-loves-going-to-get-you-again/</loc>
     <lastmod>2020-10-27T09:13:57-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -908,7 +914,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-05-13-lo-fi-garage-symphonette/</loc>
-    <lastmod>2021-02-18T14:10:41-05:00</lastmod>
+    <lastmod>2021-02-23T19:36:16-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
