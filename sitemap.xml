@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-06-28-repose/</loc>
-    <lastmod>2020-07-01T21:28:55-04:00</lastmod>
+    <lastmod>2021-04-21T21:18:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -315,6 +315,12 @@
   <url>
     <loc>https://www.someparty.ca/2021-04-11-great-success/</loc>
     <lastmod>2021-04-12T22:54:24-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2021-04-18-critical-excess/</loc>
+    <lastmod>2021-04-21T21:38:45-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1130,7 +1136,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2021-03-07-anything-cant-happen/</loc>
-    <lastmod>2021-03-12T06:56:30-05:00</lastmod>
+    <lastmod>2021-04-21T13:16:25-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
