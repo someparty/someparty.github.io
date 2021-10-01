@@ -284,7 +284,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-01-05-two-words-one-finger/</loc>
-    <lastmod>2021-04-29T07:46:02-04:00</lastmod>
+    <lastmod>2021-09-30T08:09:21-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -302,7 +302,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-11-29-this-monologue/</loc>
-    <lastmod>2021-04-29T07:46:02-04:00</lastmod>
+    <lastmod>2021-09-30T08:09:21-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -429,6 +429,12 @@
   <url>
     <loc>https://www.someparty.ca/2019-10-06-hockey-dad/</loc>
     <lastmod>2020-07-01T20:17:21-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2021-09-30-everyday-is-monday/</loc>
+    <lastmod>2021-09-30T22:00:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -626,7 +632,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2021-06-13-half-twin/</loc>
-    <lastmod>2021-06-17T14:02:46-04:00</lastmod>
+    <lastmod>2021-09-30T08:09:21-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -848,7 +854,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-07-07-moody-stables/</loc>
-    <lastmod>2021-05-07T08:49:21-04:00</lastmod>
+    <lastmod>2021-09-30T08:09:21-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
