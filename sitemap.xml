@@ -169,6 +169,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2021-12-14-next-time-hit-me/</loc>
+    <lastmod>2021-12-14T23:13:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2019-04-14-street-action/</loc>
     <lastmod>2021-11-26T10:02:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -740,7 +746,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2021-11-19-get-in-line/</loc>
-    <lastmod>2021-11-19T13:25:41-05:00</lastmod>
+    <lastmod>2021-12-14T09:31:40-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -800,7 +806,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-02-25-at-it-again/</loc>
-    <lastmod>2021-05-10T08:44:34-04:00</lastmod>
+    <lastmod>2021-12-14T22:11:08-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1166,7 +1172,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-03-25-a-daily-affirmation/</loc>
-    <lastmod>2021-07-13T20:47:09-04:00</lastmod>
+    <lastmod>2021-12-14T22:11:08-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
