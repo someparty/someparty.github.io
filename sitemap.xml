@@ -230,7 +230,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2021-07-11-through-to-you/</loc>
-    <lastmod>2021-07-14T22:15:42-04:00</lastmod>
+    <lastmod>2022-09-12T14:57:06-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -903,6 +903,12 @@
   <url>
     <loc>https://www.someparty.ca/2017-07-16-cellophane/</loc>
     <lastmod>2022-07-23T14:50:02-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2022-09-12-dont-forget-my-name/</loc>
+    <lastmod>2022-09-12T19:42:10-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
