@@ -643,6 +643,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2022-09-16-big-thyme/</loc>
+    <lastmod>2022-09-16T15:25:37-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2019-06-09-le-justin-trudeau-kinda-party/</loc>
     <lastmod>2022-07-23T14:50:02-04:00</lastmod>
     <changefreq>monthly</changefreq>
