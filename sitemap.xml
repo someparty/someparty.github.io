@@ -199,8 +199,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2022-12-12-somewhere-beyond/</loc>
+    <lastmod>2022-12-12T13:12:29-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2019-10-20-against-the-pavement/</loc>
-    <lastmod>2022-07-23T15:09:32-04:00</lastmod>
+    <lastmod>2022-12-12T08:57:48-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -458,7 +464,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-11-03-anyones-guess/</loc>
-    <lastmod>2021-11-26T10:02:14-05:00</lastmod>
+    <lastmod>2022-12-12T08:57:48-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -470,7 +476,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-12-01-zone-of-avoidance/</loc>
-    <lastmod>2022-06-02T19:35:45-04:00</lastmod>
+    <lastmod>2022-12-12T08:57:48-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -782,7 +788,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2022-04-04-titanic-lusitania/</loc>
-    <lastmod>2022-04-29T14:27:20-04:00</lastmod>
+    <lastmod>2022-12-12T09:50:52-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -830,13 +836,13 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-03-29-i-wanna-touch-your-face/</loc>
-    <lastmod>2022-07-23T15:09:32-04:00</lastmod>
+    <lastmod>2022-12-12T08:57:48-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.someparty.ca/2022-10-03-death-party/</loc>
-    <lastmod>2022-10-14T09:18:04-04:00</lastmod>
+    <lastmod>2022-10-20T13:49:21-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -866,7 +872,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-11-15-back-with-the-gang/</loc>
-    <lastmod>2022-07-23T15:09:32-04:00</lastmod>
+    <lastmod>2022-12-12T08:57:48-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1280,7 +1286,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-09-27-thunder-east/</loc>
-    <lastmod>2022-05-23T12:14:14-04:00</lastmod>
+    <lastmod>2022-12-12T08:57:48-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
