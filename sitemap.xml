@@ -361,6 +361,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2023-01-08-imminent-destruction/</loc>
+    <lastmod>2023-01-08T15:07:19-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2020-11-29-this-monologue/</loc>
     <lastmod>2023-01-06T09:32:29-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1345,12 +1351,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.someparty.ca/2023-01-06-imminent-destruction/</loc>
-    <lastmod>2023-01-08T15:00:48-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.someparty.ca/2018-03-25-a-daily-affirmation/</loc>
     <lastmod>2021-12-14T22:11:08-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1694,7 +1694,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/about/</loc>
-    <lastmod>2022-03-21T12:38:57-04:00</lastmod>
+    <lastmod>2023-01-08T15:10:12-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
