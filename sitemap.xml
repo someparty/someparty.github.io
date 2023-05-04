@@ -434,7 +434,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2023-04-05-i-make-the-same-mistakes/</loc>
-    <lastmod>2023-04-05T20:17:11-04:00</lastmod>
+    <lastmod>2023-05-03T13:59:33-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -560,7 +560,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2021-12-04-cant-understand-the-feeling/</loc>
-    <lastmod>2022-07-23T15:09:32-04:00</lastmod>
+    <lastmod>2023-05-03T13:59:33-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -848,7 +848,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2021-06-06-communication-breakdown/</loc>
-    <lastmod>2023-04-05T20:01:50-04:00</lastmod>
+    <lastmod>2023-05-03T13:59:33-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1503,6 +1503,12 @@
   <url>
     <loc>https://www.someparty.ca/2019-12-15-anything-good/</loc>
     <lastmod>2022-06-02T19:35:44-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2023-05-03-fixed-up-by-orange-light/</loc>
+    <lastmod>2023-05-03T22:44:20-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
