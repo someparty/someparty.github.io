@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.someparty.ca/</loc>
-    <lastmod>2022-04-15T17:00:13-04:00</lastmod>
+    <lastmod>2023-06-21T10:36:22-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -206,7 +206,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2022-12-12-somewhere-beyond/</loc>
-    <lastmod>2022-12-12T13:48:47-05:00</lastmod>
+    <lastmod>2023-02-15T08:58:19-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2021-07-11-through-to-you/</loc>
-    <lastmod>2023-06-28T14:41:30-04:00</lastmod>
+    <lastmod>2023-06-28T14:41:39-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -476,7 +476,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2023-06-11-nothing-matters/</loc>
-    <lastmod>2023-06-11T21:42:22-04:00</lastmod>
+    <lastmod>2023-06-21T12:01:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -590,7 +590,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2023-02-04-faded-state/</loc>
-    <lastmod>2023-04-03T22:43:19-04:00</lastmod>
+    <lastmod>2023-04-03T22:42:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -890,7 +890,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2022-10-03-death-party/</loc>
-    <lastmod>2022-10-20T13:49:21-04:00</lastmod>
+    <lastmod>2022-10-14T09:18:04-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -921,6 +921,12 @@
   <url>
     <loc>https://www.someparty.ca/2020-11-15-back-with-the-gang/</loc>
     <lastmod>2023-04-05T20:02:34-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2023-07-12-weapon-of-the-mystic/</loc>
+    <lastmod>2023-07-12T09:38:26-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1196,7 +1202,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2023-03-22-time-and-again/</loc>
-    <lastmod>2023-03-22T22:09:59-04:00</lastmod>
+    <lastmod>2023-04-14T12:26:27-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1736,7 +1742,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2019-01-27-in-death/</loc>
-    <lastmod>2023-04-18T14:47:30-04:00</lastmod>
+    <lastmod>2023-04-18T14:47:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1772,7 +1778,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/unsubscribe/</loc>
-    <lastmod>2022-06-21T21:47:12-04:00</lastmod>
+    <lastmod>2023-06-21T10:36:18-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
