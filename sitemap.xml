@@ -608,7 +608,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2018-01-28-six-day-weekend/</loc>
-    <lastmod>2021-08-24T17:20:05-04:00</lastmod>
+    <lastmod>2023-12-05T14:43:58-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -950,7 +950,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2023-11-17-menace-minimale/</loc>
-    <lastmod>2023-11-17T13:17:03-05:00</lastmod>
+    <lastmod>2023-12-05T13:01:20-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1411,6 +1411,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2023-12-05-this-is-a-life/</loc>
+    <lastmod>2023-12-05T22:07:50-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2021-02-07-year-of-the-horse/</loc>
     <lastmod>2023-04-14T08:28:50-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1652,7 +1658,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2023-05-13-human-body-human-brain/</loc>
-    <lastmod>2023-05-13T13:33:14-04:00</lastmod>
+    <lastmod>2023-12-04T12:32:38-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
