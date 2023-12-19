@@ -212,7 +212,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2022-12-12-somewhere-beyond/</loc>
-    <lastmod>2022-12-12T13:48:47-05:00</lastmod>
+    <lastmod>2023-12-18T15:09:46-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1197,6 +1197,12 @@
   <url>
     <loc>https://www.someparty.ca/2020-03-08-took-too-much/</loc>
     <lastmod>2023-07-31T08:50:23-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2023-12-18-formed-in-the-snow/</loc>
+    <lastmod>2023-12-18T20:23:53-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
