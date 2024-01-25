@@ -596,7 +596,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2023-01-18-falling-forward/</loc>
-    <lastmod>2023-01-18T20:42:26-05:00</lastmod>
+    <lastmod>2024-01-23T15:28:33-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -879,6 +879,12 @@
   <url>
     <loc>https://www.someparty.ca/2018-10-14-pointing-fingers/</loc>
     <lastmod>2022-06-02T19:35:44-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.someparty.ca/2024-01-24-field-of-ruins/</loc>
+    <lastmod>2024-01-24T22:24:35-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1682,7 +1688,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2020-11-01-ego-death/</loc>
-    <lastmod>2022-10-03T14:04:26-04:00</lastmod>
+    <lastmod>2024-01-24T21:02:03-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1832,13 +1838,13 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/privacy/</loc>
-    <lastmod>2024-01-09T09:36:54-05:00</lastmod>
+    <lastmod>2024-01-24T22:33:04-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.someparty.ca/unsubscribe/</loc>
-    <lastmod>2024-01-09T09:36:54-05:00</lastmod>
+    <lastmod>2024-01-24T22:33:04-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
