@@ -224,7 +224,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2022-12-12-somewhere-beyond/</loc>
-    <lastmod>2023-12-20T12:41:03-05:00</lastmod>
+    <lastmod>2024-04-18T12:10:30-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -332,7 +332,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2023-07-31-bang-to-rights/</loc>
-    <lastmod>2023-10-23T12:50:29-04:00</lastmod>
+    <lastmod>2024-04-18T12:10:18-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -392,7 +392,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2023-01-08-imminent-destruction/</loc>
-    <lastmod>2023-01-08T15:15:20-05:00</lastmod>
+    <lastmod>2024-04-18T12:10:23-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1243,6 +1243,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.someparty.ca/2024-04-19-mental-health-day/</loc>
+    <lastmod>2024-04-19T15:38:51-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.someparty.ca/2022-06-02-performative-hours/</loc>
     <lastmod>2023-04-24T15:07:22-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1418,7 +1424,7 @@
   </url>
   <url>
     <loc>https://www.someparty.ca/2024-03-15-modern-myth/</loc>
-    <lastmod>2024-03-15T15:32:56-04:00</lastmod>
+    <lastmod>2024-04-19T15:38:56-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
