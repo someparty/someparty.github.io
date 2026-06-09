@@ -1,0 +1,1 @@
+import{Controller}from"https://unpkg.com/@hotwired/stimulus/dist/stimulus.js";export default class extends Controller{async connect(){const t=this.element.innerHTML;Swal.fire({title:"Gone Fishin'",html:t,icon:!1})}}
